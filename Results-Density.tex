@@ -1,0 +1,42 @@
+\section{Component Densities}
+
+Each of the simulated system's density profiles were calculated to quantify lineshapes and deviations from the neat-water system. The water density profile of each system was fitted to a hyperbolic tangent (Eq. \ref{tanh_fit}) with the fitting parameters listed in table \ref{water_params}. The resulting data was shifted such that the location of the Gibb's dividing surface ($z_0$) was used as the origin for distance calculations.
+
+\begin{table}[htdp]
+	\begin{center}
+	\begin{tabular}{|c||c|c|c|}
+		\hline
+		System & $\rho_I$ & $d$ & $t_{90-10}$ \\ \hline
+		Neat Water & 1.613 & 3.545 \\ 
+		NaCl & 1.732 & 3.806 \\
+		NaNO$_3$ & 3.264 & 7.171 \\
+		Na$_2$SO$_4$ & 1.271 & 2.793 \\
+		\hline
+	\end{tabular}
+	\end{center}
+	\caption{Water density profile fitting parameters. The system origin was shifted for analysis such that $z_0$ corresponds to a long-axis location of 0.0. Equation \ref{90-10} relates the interfacial width to the ``90-10'' thickness of the water profile. $\rho_I$ is the bulk density value in the aqueous phase.}
+	\label{water_params}
+\end{table}
+
+The fluctuations in the surface density profiles of water have been noted previously and attributed to thermal capillary waves on a larger length-scale than the system size.\cite{Chang1996} The same work also made note that the interfacial thickness is size-dependent on the interfacial surface area. Increasing the surface area dimensions should cause an increase in the interfacial width. Two works on the water-CCl$_4$ surface offer direct comparison of this.\cite{Chang1996,Hore2008} In comparing the interfacial widths, there is an increase in width as the system cross-sectional area is increased. This phenomenon implies that care must be taken when making quantitative comparisons between simulation studies.
+
+Ionic density profiles were fitted by adding a gaussian function to the hyperbolic tangent function (Eq. \ref{ion_fit}) to more closely capture the concentration enhancement excess near or within the interfacial region. The lineshape parameters for each salt system are shown in table \ref{ion_params}.
+
+\begin{table}[htdp]
+	\begin{center}
+	%system; Anion: (a,b,c,Z0,d); Cation: (a,b,c,Z0,d)
+	\begin{tabular}{c|c|c|c|c|c|c|c|c|c|c|}
+		\cline{2-11}
+		\multicolumn{1}{c|}{} & \multicolumn{5}{c}{Anion} & \multicolumn{5}{|c|}{Cation} \\ 
+		\cline{1-11}
+		\multicolumn{1}{|c|}{System} & $a$ & $b$ & $c$ & $z_0$ & $d$ & $a$ & $b$ & $c$ & $z_0$ & $d$ \\ \hline
+		\multicolumn{1}{|c|}{NaCl} & 0.464 & -1.726 & 1.361 & -3.190 & 1.928 & -0.257 & -8.252 & 2.154 & -2.278 & 1.666 \\ \hline
+		\multicolumn{1}{|c|}{NaNO$_3$} & 0.732 & 0.655 & 1.520 & -0.962 & 0.407 & 0.335 & -1.614 & 1.982 & -2.769 & 1.384 \\ \hline
+		\multicolumn{1}{|c|}{Na$_2$SO$_4$} & 0.474 & -3.551 & 1.162 & -5.594 & 2.307 & -0.707 & -8.648 & 3.439 & -3.203 & 1.791 \\ \hline
+	\end{tabular}
+	\end{center}
+	\caption{Lineshape fitting parameters for the ion density profiles. The data for each density profile is fit to a convolution of a hyperbolic tangent and gaussian peak functions (Eq. \ref{ion_fit}). The parameters $a$, $b$, and $c$ are used for fitting the gaussian peak to model the concentration of ion near to the interfacial region. $z_0$ and $d$ are the two parameters used to model the hyperbolic tangent lineshape for the bulk concentration and the decrease of density within the H$_2$O-CCl$_4$ interface.}
+	\label{ion_params}
+\end{table}
+
+Most of the recent studies on ion concentration near water interfaces have noted that large and polarizable ions will concentrate at the surface,\cite{Petersen2005b,Pegram2006,Sloutskin2007,Eggimann2008} while small non-polarizable ion tend to be repelled. The surface enhancement calculated from molecular dynamics, however, portrays the lower bound of the actual effect because of the reduced polarizability values used in simulations to avoid the so-called ``polarization catastrophe.'' The enhancement of surface anions is also believed to be the cause of the subsurface cation density increase. The counterions are attracted to the concentrations of anions at the surface, which are in turn stabilized by the increased polarization of the water due to the distorted interfacial electric field. The affinity for the surface follows the trend of surface tension increments, $\frac{d\gamma}{dm_2}$, where Na$_2$SO$_4 >$ NaCl $>$ NaNO$_3$.\cite{Pegram2006} This also follows the hoffmeister series trend for anions found to be the most ``structure-making'', and they are found to be enhanced further into the interface.

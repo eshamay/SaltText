@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{setspace}
+
+% for using images
+\usepackage[pdftex]{graphicx}
+
+% for caption manipulation
+\usepackage{ccaption}
+
+% Change the format of a figure caption
+\captionnamefont{\bfseries}
+\captiontitlefont{\small\sffamily}
+\captiondelim{ --- }
+\hangcaption
+\renewcommand{\figurename}{Figure.}
+
+% bibliography packages
+\usepackage[sort&compress]{natbib}
+\citestyle{nature}
+
+% Some info about the document
+\author{Eric S. Shamay, Geraldine L. Richmond}
+\title{Aqueous Salt and CCl$_4$ Interfaces}
+
+% some formatting tags
+\oddsidemargin  0.0in
+\evensidemargin 0.0in
+\textwidth      6.5in
+
+% for angstrom symbols
+\newcommand{\ang}{$\textrm{\AA}$}
+
+\begin{document}
+\onehalfspacing
+
+% Overview/methods
+\include{ComputationalOverview}
+\include{ComputationalMethods}
+
+% Results
+\include{Results-Density}
+\include{Results-Orientation-2D}
+\include{Results-Orientation-OrderParams}
+\include{Results-SFG}
+
+\bibliography{../references/WorkCitations}
+\bibliographystyle{achemso}
+
+\end{document}

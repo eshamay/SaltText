@@ -1,0 +1,40 @@
+\section{Computational Analysis}
+
+Classical molecular dynamics simulations were performed to analyze the interface formed between various aqueous salt solutions and carbontetrachloride. Three salt solutions were simulated, as well as a reference system consisting of neat water for comparison to previous computational efforts.\cite{Hore2007,Hore2008,Hore2007a,Walker2006b,Walker2007a,Walker2007b} The salts used in the simulations were NaCl, NaNO$_3$, and Na$_2$SO$_4$. These were chosen to compare to the experimental SFG results, and to supplement those experiments with additional molecular-level information. Analyses were performed on the simulation data to extract ionic and molecular density data, information about water coordination near to the interface, and water orientation data from order parameter analysis. The analyses are similar to, and logical extensions of previous computational work done on aqueous salt systems.
+
+\subsection{Density Profiles}
+Density histograms of simulated interfaces have been used in previous publications to show ionic and molecular distribution behavior in various systems.\cite{Chang1995,Eggimann2008,Du2008,Wick2006c,Petersen2005a,Hore2008,Walker2006b,Walker2007b} In this work the density profile of water through the interface is fitted to a hyperbolic tangent function\cite{Wick2006c,MATSUMOTO1988} as shown below:
+
+\begin{equation}\label{tanh_fit}
+	\rho(z) = \frac12(\rho_1+\rho_2) - \frac12\left(\rho_1-\rho_2\right)\tanh\left(\frac{z-z_0}{d}\right)
+\end{equation}
+
+Equation (\ref{tanh_fit}) relates the interfacial density, $\rho$, to the bulk densities of the two phases, $\rho_1$ and $\rho_2$, the location of the Gibb's dividing surface, $z_0$, and the interfacial width, $d$. The ``90-10'' thickness of the interface is related to the fitting parameter $d$ by:
+
+\begin{equation}\label{90-10}
+	t = 2.197d
+\end{equation}
+
+These measures of interfacial thickness provide a means of comparing the depths to which the water phase is affected by ions located at the interface. The density distributions of the salts depict concentration and depletion phenomena throughout the interfacial region, and also serve to illustrate ionic affinity within this region. Previous work has been performed on the air-water interface with various ions introduced, and each shows a particular level of interfacial affinity, with the more polar ions being the most interfacially active. We present the density distribution results below for the H$_2$O-CCl$_4$ interfaces studied. The density profiles of the different anionic species are fitted using a modified $\tanh()$ function that includes a gaussian function to more closely fit the concentration near the interface. The anion fitting function allows for a more direct comparison of location and peak width between the different systems.
+
+\begin{equation}\label{ion_fit}
+	\rho(z) = \frac12(\rho_1+\rho_2) - \frac12\left(\rho_1-\rho_2\right)\tanh\left(\frac{z-z_0}{d}\right) + ae^{-\frac{(x-b)^2}{2c^2}}
+\end{equation}
+
+The gaussian function allows one to locate the anion peak height $a$, centered at an offset location $b$, with a width $c$.
+
+\subsection{Water Coordination}
+The coordination of water and distribution of the various coordination types was determined for each intefacial system. Water coordination refers to the hydrogen-bonding structure of water molecules, and is a measure of the number and type of bonds made. A simple naming scheme used to describe each type of water coordination have been developed previously,\cite{Walker2006b} and so that nomenclature will be used in this work. It has been established that certain bonding structures dominate in different regions of the interface, thus each of the water density profiles will be broken down further into component coordination types to show the areas in which the various types are most prevalent. The parameters used to define a hydrogen-bond are taken from a previous work by this group.\cite{Walker2006b} Analysis of water coordination profiles is valuable for comparison to experimental VSF results within the OH-bond stretching region of the vibrational spectrum. These give a molecular-level description of the composition of an interface, and show the various water bonding types that will contribute most to the VSF signal. Additionally, the results of this work are compared to previous studies on the air and salt water interfaces to establish differences due to the addition of an organic phase.
+
+\subsection{Order Parameters}
+One means of describing molecular orientation relative to a surface is by use of order parameters.\cite{Buffeteau2004} This technique has been applied to biaxial molecules such as water at organic interfaces,\cite{Hore2008} and organic molecules to elucidate structuring within the interfacial region.\cite{Hore2007} The results of this work show the two order parameters, S$_1$ and S$_2$, as functions of distance from the interface Gibbs dividing surface.
+
+\begin{equation}\label{s1 parameter}
+	S_1 = \frac12\left<3 \cos^2(\theta) - 1\right>
+\end{equation}
+
+\begin{equation}\label{s2 parameter}
+	S_2 = \frac{\left<\sin(\theta)\cos(2\phi)\right>}{\left<\sin(\theta)\right>}
+\end{equation}
+
+The order parameters are calculated from the euler angle values of the molecular ``tilt'' $\theta$, and the ``twist'' $\phi$. The order parameter distributions are further broken down to show the values for individual water coordination types for determination of orientational behavior of each.
