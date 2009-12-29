@@ -1,22 +1,31 @@
 \section{Component Densities}
 
-Each of the simulated system's density profiles were calculated to quantify lineshapes and deviations from the neat-water system. The water density profile of each system was fitted to a hyperbolic tangent (Eq. \ref{tanh_fit}) with the fitting parameters listed in table \ref{water_params}. The resulting data was shifted such that the location of the Gibb's dividing surface ($z_0$) was used as the origin for distance calculations.
+The density profiles of the components of each system were calculated to quantify deviations from the neat-H$_2$O/CCl$_4$ system. The water density profile of each system was fitted to a hyperbolic tangent (Eq. \ref{tanh_fit}) with the calculated fitting parameters for the interfacial width in terms of a 90-10 thickness reported with each plot. The resulting data was shifted such that the location of the Gibb's dividing surface ($z_0$) was set as the origin for distance calculations. The four system component-density plots are shown in figure \ref{fig:density-plots}.
 
-\begin{table}[htdp]
-	\begin{center}
-	\begin{tabular}{|c||c|c|c|}
-		\hline
-		System & $\rho_I$ & $d$ & $t_{90-10}$ \\ \hline
-		Neat Water & 1.613 & 3.545 \\ 
-		NaCl & 1.732 & 3.806 \\
-		NaNO$_3$ & 3.264 & 7.171 \\
-		Na$_2$SO$_4$ & 1.271 & 2.793 \\
-		\hline
-	\end{tabular}
-	\end{center}
-	\caption{Water density profile fitting parameters. The system origin was shifted for analysis such that $z_0$ corresponds to a long-axis location of 0.0. Equation \ref{90-10} relates the interfacial width to the ``90-10'' thickness of the water profile. $\rho_I$ is the bulk density value in the aqueous phase.}
-	\label{water_params}
-\end{table}
+\begin{figure}[h!]
+\begin{center}
+	\includegraphics[scale=0.13]{images/H2SO4-PhaseDiagram.png}
+	\caption{Aqueous salt and CCl$_4$ density profiles. The system origins were shifted for analysis such that $z_0$ corresponds to a long-axis location of 0.0 $\AA$. The neat-H$_2$O (a), NaCl (b), NaNO$_3$ (c), and Na$_2$SO$_4$ system component densities are plotted with the water-oxygen density (dashed black) with the corresponding fitting lineshape (solid black), as well as the CCl$_4$ (dashed blue), Na$^+$ cation (dashed green) and respective anion (dashed orange line) densities. The cation and anion lines were scaled to make their peak and trough locations clearer.
+	\label{fig:density-plots}
+\end{center}
+\end{figure}
+
+
+%\begin{table}[htdp]
+	%\begin{center}
+	%\begin{tabular}{|c||c|c|c|}
+		%\hline
+		%System & $d$ & $t_{90-10}$ \\ \hline
+		%Neat Water & 2.170 &  \\ 
+		%NaCl & 2.576 &  \\
+		%NaNO$_3$ & 1.688 & \\
+		%Na$_2$SO$_4$ & 3.963 & \\
+		%\hline
+	%\end{tabular}
+	%\end{center}
+	%\caption{Water density profile fitting parameters. The system origin was shifted for analysis such that $z_0$ corresponds to a long-axis location of 0.0 $\AA$. Equation \ref{90-10} relates the interfacial width, $d$, to the ``90-10'' thickness, $t_{90-10}$, of the water profile.}
+	%\label{water_params}
+%\end{table}
 
 The fluctuations in the surface density profiles of water have been noted previously and attributed to thermal capillary waves on a larger length-scale than the system size.\cite{Chang1996} The same work also made note that the interfacial thickness is size-dependent on the interfacial surface area. Increasing the surface area dimensions should cause an increase in the interfacial width. Two works on the water-CCl$_4$ surface offer direct comparison of this.\cite{Chang1996,Hore2008} In comparing the interfacial widths, there is an increase in width as the system cross-sectional area is increased. This phenomenon implies that care must be taken when making quantitative comparisons between simulation studies.
 
