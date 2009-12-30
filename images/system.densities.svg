@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,102 +10,238 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2440"
-   sodipodi:version="0.32"
-   inkscape:version="0.46"
-   width="812"
-   height="612"
-   version="1.0"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="system.densities.svg"
-   style="display:inline"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <metadata
-     id="metadata2445">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:export-filename="/home/shachar/work/Salts+CCl4_Article/images/system.densities.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
-     id="defs2443">
+     id="defs4">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective2447" />
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2884"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2955"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3026"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3097"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3150"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3221"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3292"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3363"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="953"
-     inkscape:window-width="1264"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
      id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-18.502771"
+     inkscape:cy="567.32915"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:zoom="0.3429803"
-     inkscape:cx="428.82997"
-     inkscape:cy="210.56959"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="49"
-     inkscape:current-layer="svg2440" />
-  <image
-     xlink:href="h2o-ccl4.density.png"
-     sodipodi:absref="/home/eric/Documents/Documents/Salts+CCl4_Article/images/h2o-ccl4.density.png"
-     width="812"
-     height="612"
-     id="image2449"
-     x="-207.73756"
-     y="0"
-     inkscape:export-filename="/home/eric/Documents/Documents/Salts+CCl4_Article/images/system.densities.png"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="-141.42136,-290.92394"
+       orientation="0,744.09448"
+       id="guide2841" />
+    <sodipodi:guide
+       position="1575.838,-496.99506"
+       orientation="-1052.3622,0"
+       id="guide2843" />
+    <sodipodi:guide
+       position="1943.5335,1668.772"
+       orientation="0,-744.09448"
+       id="guide2845" />
+    <sodipodi:guide
+       position="-1693.0157,-468.71079"
+       orientation="1052.3622,0"
+       id="guide2847" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <g
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="nacl"
-     style="display:inline" />
-  <image
-     xlink:href="nacl-ccl4.density.png"
-     sodipodi:absref="/home/eric/Documents/Documents/Salts+CCl4_Article/images/nacl-ccl4.density.png"
-     width="812"
-     height="612"
-     id="image2515"
-     x="640.70789"
-     y="0"
-     inkscape:export-filename="/home/eric/Documents/Documents/Salts+CCl4_Article/images/system.densities.png"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
-  <image
-     xlink:href="nano3-ccl4.density.png"
-     sodipodi:absref="/home/eric/Documents/Documents/Salts+CCl4_Article/images/nano3-ccl4.density.png"
-     width="812"
-     height="612"
-     id="image2647"
-     x="-207.73756"
-     y="667.5368"
-     inkscape:export-filename="/home/eric/Documents/Documents/Salts+CCl4_Article/images/system.densities.png"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
-  <image
-     xlink:href="na2so4-ccl4.density.png"
-     sodipodi:absref="/home/eric/Documents/Documents/Salts+CCl4_Article/images/na2so4-ccl4.density.png"
-     width="812"
-     height="612"
-     id="image2793"
-     x="640.70789"
-     y="667.5368"
-     inkscape:export-filename="/home/eric/Documents/Documents/Salts+CCl4_Article/images/system.densities.png"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
+     style="display:inline">
+    <g
+       id="g3495"
+       inkscape:export-xdpi="120.01532"
+       inkscape:export-ydpi="120.01532">
+      <image
+         xlink:href="file:///home/shachar/work/Salts+CCl4_Article/images/h2o-ccl4.density.png"
+         width="1800"
+         height="990"
+         id="image3152"
+         x="-1776.3427"
+         y="-606.33356" />
+      <image
+         xlink:href="file:///home/shachar/work/Salts+CCl4_Article/images/nacl-ccl4.density.png"
+         width="1800"
+         height="990"
+         id="image3223"
+         x="-152.48711"
+         y="-606.33356" />
+      <image
+         xlink:href="file:///home/shachar/work/Salts+CCl4_Article/images/nano3-ccl4.density.png"
+         width="1800"
+         height="990"
+         id="image3294"
+         x="-1776.3427"
+         y="339.16925" />
+      <image
+         xlink:href="file:///home/shachar/work/Salts+CCl4_Article/images/na2so4-ccl4.density.png"
+         width="1800"
+         height="990"
+         id="image3365"
+         x="-152.48711"
+         y="339.16925" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text Letter Labels"
+     style="display:inline">
+    <g
+       id="g3501"
+       inkscape:export-filename="/home/shachar/work/Salts+CCl4_Article/images/g3495.png"
+       inkscape:export-xdpi="120.01532"
+       inkscape:export-ydpi="120.01532">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3461"
+         y="-458.82602"
+         x="-278.80209"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+         xml:space="preserve"><tspan
+           y="-458.82602"
+           x="-278.80209"
+           id="tspan3463"
+           sodipodi:role="line" /></text>
+      <text
+         id="text3465"
+         y="-458.82602"
+         x="-219.46248"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="-458.82602"
+           x="-219.46248"
+           id="tspan3467"
+           sodipodi:role="line">A</tspan></text>
+      <flowRoot
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot3469"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3471"><rect
+             y="-446.70419"
+             x="-290.92392"
+             height="40.406101"
+             width="72.73098"
+             id="rect3473" /></flowRegion><flowPara
+           id="flowPara3475" /></flowRoot>      <text
+         id="text3481"
+         y="487.2041"
+         x="-218.19295"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="487.2041"
+           x="-218.19295"
+           id="tspan3483"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         id="text3485"
+         y="486.67676"
+         x="1402.0917"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="486.67676"
+           x="1402.0917"
+           id="tspan3487"
+           sodipodi:role="line">D</tspan></text>
+      <text
+         id="text3477"
+         y="-458.82602"
+         x="1405.9198"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="-458.82602"
+           x="1405.9198"
+           id="tspan3479"
+           sodipodi:role="line">B</tspan></text>
+    </g>
+  </g>
 </svg>
