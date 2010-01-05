@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.29)  31 DEC 2009 15:33
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  4 JAN 2010 16:58
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -152,77 +152,81 @@ Package natbib Warning: Citation `Someone' on page 1 undefined on input line 44
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<images/water-angles.png, id=12, 994.114pt x 590.205pt>
+File: images/water-angles.png Graphic file (type png)
+
+<use images/water-angles.png> [2 <./images/water-angles.png>]) [3]
 \openout2 = `ComputationalMethods.aux'.
 
 
-(./ComputationalMethods.tex) [3
+(./ComputationalMethods.tex) [4
 
 
 ]
 \openout2 = `Results-Density.aux'.
 
  (./Results-Density.tex
-<images/densities.png, id=21, 2749.472pt x 1554.608pt>
+<images/densities.png, id=30, 2749.472pt x 1554.608pt>
 File: images/densities.png Graphic file (type png)
 
 <use images/densities.png>
 
-LaTeX Warning: Command \r invalid in math mode on input line 7.
+LaTeX Warning: Command \r invalid in math mode on input line 6.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 7.
+LaTeX Warning: Command \r invalid in math mode on input line 6.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 12.
+LaTeX Warning: Command \r invalid in math mode on input line 11.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 12.
+LaTeX Warning: Command \r invalid in math mode on input line 11.
 
-[4
+[5
 
 
  <./images/densities.png>]
 
-LaTeX Warning: Command \r invalid in math mode on input line 32.
+LaTeX Warning: Command \r invalid in math mode on input line 31.
 
-[5]) [6] [7]
+[6]) [7] [8]
 \openout2 = `Results-Orientation-2D.aux'.
 
- (./Results-Orientation-2D.tex) [8
+ (./Results-Orientation-2D.tex) [9
 
 
 ]
 \openout2 = `Results-Orientation-OrderParams.aux'.
 
 
-(./Results-Orientation-OrderParams.tex) [9
+(./Results-Orientation-OrderParams.tex) [10
 
 
 ]
 \openout2 = `Results-SFG.aux'.
 
- (./Results-SFG.tex) [10
+ (./Results-SFG.tex) [11
 
 
 ]
-(./Article.bbl [11
+(./Article.bbl [12
 
 ])
 
 Package natbib Warning: There were undefined citations.
 
-[12] (./Article.aux (./ComputationalOverview.aux) (./ComputationalMethods.aux)
+[13] (./Article.aux (./ComputationalOverview.aux) (./ComputationalMethods.aux)
 (./Results-Density.aux) (./Results-Orientation-2D.aux)
 (./Results-Orientation-OrderParams.aux) (./Results-SFG.aux)) ) 
 Here is how much of TeX's memory you used:
- 1730 strings out of 95087
- 20942 string characters out of 1183277
+ 1740 strings out of 95087
+ 21137 string characters out of 1183279
  80748 words of memory out of 1500000
- 4874 multiletter control sequences out of 10000+50000
+ 4883 multiletter control sequences out of 10000+50000
  9804 words of font info for 35 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
- 27i,8n,29p,3261b,315s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 27i,8n,29p,3261b,317s stack positions out of 5000i,500n,6000p,200000b,5000s
 </usr/share/texmf
 -texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type
 1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx7.
@@ -232,13 +236,15 @@ pe1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi9
 .pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/tex
 mf-texlive/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type
 1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr7.pfb
-></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsl10.pfb></usr/share/texmf-
-texlive/fonts/type1/bluesky/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/
-bluesky/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy7.pf
-b></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb>
-Output written on Article.pdf (12 pages, 408426 bytes).
+></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf-te
+xlive/fonts/type1/bluesky/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/b
+luesky/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb
+></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-t
+exlive/fonts/type1/bluesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/b
+luesky/cm/cmti10.pfb>
+Output written on Article.pdf (13 pages, 575807 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 121 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
