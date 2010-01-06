@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  5 JAN 2010 14:18
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  6 JAN 2010 14:27
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -214,24 +214,24 @@ File: images/h2o-2dhistograms.png Graphic file (type png)
 <images/sfg-spectra.png, id=55, 1840.476pt x 1016.598pt>
 File: images/sfg-spectra.png Graphic file (type png)
 
-<use images/sfg-spectra.png>) [11
+<use images/sfg-spectra.png> [11
 
 
- <./images/sfg-spectra.png>] (./Article.bbl
-[12
+ <./images/sfg-spectra.png>]) [12]
+(./Article.bbl [13
 
 ])
 
 Package natbib Warning: There were undefined citations.
 
-[13] (./Article.aux (./ComputationalOverview.aux) (./ComputationalMethods.aux)
+[14] (./Article.aux (./ComputationalOverview.aux) (./ComputationalMethods.aux)
 (./Results-Density.aux) (./Results-Orientation-2D.aux)
 (./Results-Orientation-OrderParams.aux) (./Results-SFG.aux)) ) 
 Here is how much of TeX's memory you used:
- 1755 strings out of 95087
- 21482 string characters out of 1183279
+ 1756 strings out of 95087
+ 21493 string characters out of 1183279
  80748 words of memory out of 1500000
- 4895 multiletter control sequences out of 10000+50000
+ 4896 multiletter control sequences out of 10000+50000
  10398 words of font info for 37 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
  27i,8n,32p,3261b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
@@ -251,9 +251,9 @@ luesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss9.pfb>
 exlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/b
 luesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb
 >
-Output written on Article.pdf (13 pages, 2914456 bytes).
+Output written on Article.pdf (14 pages, 2916416 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
+ 132 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
