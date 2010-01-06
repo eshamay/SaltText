@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  4 JAN 2010 16:58
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  5 JAN 2010 14:18
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -193,10 +193,14 @@ LaTeX Warning: Command \r invalid in math mode on input line 31.
 [6]) [7] [8]
 \openout2 = `Results-Orientation-2D.aux'.
 
- (./Results-Orientation-2D.tex) [9
+ (./Results-Orientation-2D.tex
+<images/h2o-2dhistograms.png, id=47, 1734.48pt x 985.0401pt>
+File: images/h2o-2dhistograms.png Graphic file (type png)
+
+<use images/h2o-2dhistograms.png>) [9
 
 
-]
+ <./images/h2o-2dhistograms.png>]
 \openout2 = `Results-Orientation-OrderParams.aux'.
 
 
@@ -206,11 +210,15 @@ LaTeX Warning: Command \r invalid in math mode on input line 31.
 ]
 \openout2 = `Results-SFG.aux'.
 
- (./Results-SFG.tex) [11
+ (./Results-SFG.tex
+<images/sfg-spectra.png, id=55, 1840.476pt x 1016.598pt>
+File: images/sfg-spectra.png Graphic file (type png)
+
+<use images/sfg-spectra.png>) [11
 
 
-]
-(./Article.bbl [12
+ <./images/sfg-spectra.png>] (./Article.bbl
+[12
 
 ])
 
@@ -220,13 +228,13 @@ Package natbib Warning: There were undefined citations.
 (./Results-Density.aux) (./Results-Orientation-2D.aux)
 (./Results-Orientation-OrderParams.aux) (./Results-SFG.aux)) ) 
 Here is how much of TeX's memory you used:
- 1740 strings out of 95087
- 21137 string characters out of 1183279
+ 1755 strings out of 95087
+ 21482 string characters out of 1183279
  80748 words of memory out of 1500000
- 4883 multiletter control sequences out of 10000+50000
- 9804 words of font info for 35 fonts, out of 1200000 for 2000
+ 4895 multiletter control sequences out of 10000+50000
+ 10398 words of font info for 37 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
- 27i,8n,29p,3261b,317s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 27i,8n,32p,3261b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
 </usr/share/texmf
 -texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type
 1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx7.
@@ -238,13 +246,14 @@ mf-texlive/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type
 1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr7.pfb
 ></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf-te
 xlive/fonts/type1/bluesky/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/b
-luesky/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb
-></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-t
-exlive/fonts/type1/bluesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/b
-luesky/cm/cmti10.pfb>
-Output written on Article.pdf (13 pages, 575807 bytes).
+luesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss9.pfb>
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf-t
+exlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/b
+luesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb
+>
+Output written on Article.pdf (13 pages, 2914456 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
+ 129 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
