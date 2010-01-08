@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  6 JAN 2010 14:27
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  7 JAN 2010 16:50
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -125,8 +125,7 @@ LaTeX Info: Redefining \cite on input line 602.
 \c@NAT@ctr=\count101
 ) (./Article.aux
 (./ComputationalOverview.aux) (./ComputationalMethods.aux)
-(./Results-Density.aux) (./Results-Orientation-2D.aux)
-(./Results-Orientation-OrderParams.aux) (./Results-SFG.aux))
+(./Results-Density.aux) (./Results-Orientation-2D.aux) (./Results-SFG.aux))
 \openout1 = `Article.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -197,63 +196,82 @@ LaTeX Warning: Command \r invalid in math mode on input line 31.
 <images/h2o-2dhistograms.png, id=47, 1734.48pt x 985.0401pt>
 File: images/h2o-2dhistograms.png Graphic file (type png)
 
-<use images/h2o-2dhistograms.png>) [9
+<use images/h2o-2dhistograms.png> [9
 
 
  <./images/h2o-2dhistograms.png>]
-\openout2 = `Results-Orientation-OrderParams.aux'.
+<images/h2o-angle-blurs.png, id=52, 1520.079pt x 548.449pt>
+File: images/h2o-angle-blurs.png Graphic file (type png)
+
+<use images/h2o-angle-blurs.png>
+
+LaTeX Warning: Command \r invalid in math mode on input line 26.
 
 
-(./Results-Orientation-OrderParams.tex) [10
+LaTeX Warning: Command \r invalid in math mode on input line 26.
 
 
-]
+LaTeX Warning: Command \r invalid in math mode on input line 28.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 28.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 30.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 30.
+
+[10 <./images/h2o-angle-blurs.png>]
+
+LaTeX Warning: Command \r invalid in math mode on input line 32.
+
+) [11]
 \openout2 = `Results-SFG.aux'.
 
  (./Results-SFG.tex
-<images/sfg-spectra.png, id=55, 1840.476pt x 1016.598pt>
+<images/sfg-spectra.png, id=61, 1840.476pt x 1016.598pt>
 File: images/sfg-spectra.png Graphic file (type png)
 
-<use images/sfg-spectra.png> [11
+<use images/sfg-spectra.png> [12
 
 
- <./images/sfg-spectra.png>]) [12]
-(./Article.bbl [13
+ <./images/sfg-spectra.png>]) [13]
+(./Article.bbl [14
 
 ])
 
 Package natbib Warning: There were undefined citations.
 
-[14] (./Article.aux (./ComputationalOverview.aux) (./ComputationalMethods.aux)
-(./Results-Density.aux) (./Results-Orientation-2D.aux)
-(./Results-Orientation-OrderParams.aux) (./Results-SFG.aux)) ) 
+[15] (./Article.aux (./ComputationalOverview.aux) (./ComputationalMethods.aux)
+(./Results-Density.aux) (./Results-Orientation-2D.aux) (./Results-SFG.aux)) ) 
 Here is how much of TeX's memory you used:
- 1756 strings out of 95087
- 21493 string characters out of 1183279
+ 1757 strings out of 95087
+ 21397 string characters out of 1183279
  80748 words of memory out of 1500000
- 4896 multiletter control sequences out of 10000+50000
+ 4903 multiletter control sequences out of 10000+50000
  10398 words of font info for 37 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
  27i,8n,32p,3261b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
-</usr/share/texmf
--texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type
-1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx7.
-pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/tex
-mf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/ty
-pe1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi9
-.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/tex
-mf-texlive/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type
-1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr7.pfb
-></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf-te
-xlive/fonts/type1/bluesky/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/b
-luesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss9.pfb>
-</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf-t
-exlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/b
-luesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb
->
-Output written on Article.pdf (14 pages, 2916416 bytes).
+</
+usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf-tex
+live/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/bl
+uesky/cm/cmbx7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb>
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-t
+exlive/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/b
+luesky/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb>
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf-tex
+live/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/blue
+sky/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr9.pfb></usr
+/share/texmf-texlive/fonts/type1/bluesky/cm/cmsl10.pfb></usr/share/texmf-texliv
+e/fonts/type1/bluesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesk
+y/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></us
+r/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf-texliv
+e/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/bluesk
+y/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb>
+Output written on Article.pdf (15 pages, 3245281 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
+ 141 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

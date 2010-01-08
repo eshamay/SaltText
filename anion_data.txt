@@ -1,5 +1,0 @@
-			Anion							Cation
-System		a		b		c		Za		a		b		c		Zc		Z0		d
-NaCl		0.464	-1.726	1.361	-1.938	
-NaNO3
-Na2SO4

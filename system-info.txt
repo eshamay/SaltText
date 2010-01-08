@@ -1,0 +1,11 @@
+H2O:
+left-side gibbs surface = 33.8755
+
+NaCl:
+left-side gibbs surface = 33.9399
+
+NaNO3:
+left-side gibbs surface = 31.5981
+
+Na2SO4:
+left-side gibbs surface = 40.50149
