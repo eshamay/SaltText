@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  7 JAN 2010 16:50
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  12 JAN 2010 15:32
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -128,18 +128,18 @@ LaTeX Info: Redefining \cite on input line 602.
 (./Results-Density.aux) (./Results-Orientation-2D.aux) (./Results-SFG.aux))
 \openout1 = `Article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 \openout2 = `ComputationalOverview.aux'.
 
 
@@ -152,7 +152,7 @@ Package natbib Warning: Citation `Someone' on page 1 undefined on input line 44
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<images/water-angles.png, id=12, 994.114pt x 590.205pt>
+<images/water-angles.png, id=12, 1146.9249pt x 583.2189pt>
 File: images/water-angles.png Graphic file (type png)
 
 <use images/water-angles.png> [2 <./images/water-angles.png>]) [3]
@@ -193,85 +193,77 @@ LaTeX Warning: Command \r invalid in math mode on input line 31.
 \openout2 = `Results-Orientation-2D.aux'.
 
  (./Results-Orientation-2D.tex
-<images/h2o-2dhistograms.png, id=47, 1734.48pt x 985.0401pt>
+<images/h2o-2dhistograms.png, id=47, 1832.5263pt x 1138.7343pt>
 File: images/h2o-2dhistograms.png Graphic file (type png)
 
-<use images/h2o-2dhistograms.png> [9
+<use images/h2o-2dhistograms.png>
+Overfull \hbox (6.69063pt too wide) in paragraph at lines 8--9
+ [] 
+ []
+
+[9
 
 
  <./images/h2o-2dhistograms.png>]
-<images/h2o-angle-blurs.png, id=52, 1520.079pt x 548.449pt>
-File: images/h2o-angle-blurs.png Graphic file (type png)
+<images/h2o-angle-ranges.png, id=52, 1198.7184pt x 1217.5086pt>
+File: images/h2o-angle-ranges.png Graphic file (type png)
 
-<use images/h2o-angle-blurs.png>
+<use images/h2o-angle-ranges.png> [10 <./images/h2o-angle-ranges.png>]
 
-LaTeX Warning: Command \r invalid in math mode on input line 26.
+Package natbib Warning: Citation `Nihonyanagi2009' on page 11 undefined on inpu
+t line 34.
 
-
-LaTeX Warning: Command \r invalid in math mode on input line 26.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 28.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 28.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 30.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 30.
-
-[10 <./images/h2o-angle-blurs.png>]
-
-LaTeX Warning: Command \r invalid in math mode on input line 32.
-
-) [11]
+[11]) [12]
 \openout2 = `Results-SFG.aux'.
 
  (./Results-SFG.tex
-<images/sfg-spectra.png, id=61, 1840.476pt x 1016.598pt>
+<images/sfg-spectra.png, id=64, 1840.476pt x 1016.598pt>
 File: images/sfg-spectra.png Graphic file (type png)
 
-<use images/sfg-spectra.png> [12
+<use images/sfg-spectra.png> [13
 
 
- <./images/sfg-spectra.png>]) [13]
-(./Article.bbl [14
+ <./images/sfg-spectra.png>]) [14]
+(./Article.bbl [15
 
 ])
 
 Package natbib Warning: There were undefined citations.
 
-[15] (./Article.aux (./ComputationalOverview.aux) (./ComputationalMethods.aux)
-(./Results-Density.aux) (./Results-Orientation-2D.aux) (./Results-SFG.aux)) ) 
+[16] (./Article.aux (./ComputationalOverview.aux) (./ComputationalMethods.aux)
+(./Results-Density.aux) (./Results-Orientation-2D.aux) (./Results-SFG.aux)
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
 Here is how much of TeX's memory you used:
- 1757 strings out of 95087
- 21397 string characters out of 1183279
+ 1770 strings out of 95087
+ 21476 string characters out of 1183279
  80748 words of memory out of 1500000
- 4903 multiletter control sequences out of 10000+50000
+ 4916 multiletter control sequences out of 10000+50000
  10398 words of font info for 37 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
  27i,8n,32p,3261b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
-</
-usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf-tex
-live/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/bl
-uesky/cm/cmbx7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb>
-</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-t
-exlive/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/b
-luesky/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb>
-</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf-tex
-live/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/blue
-sky/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr9.pfb></usr
-/share/texmf-texlive/fonts/type1/bluesky/cm/cmsl10.pfb></usr/share/texmf-texliv
-e/fonts/type1/bluesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesk
-y/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></us
-r/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf-texliv
-e/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/bluesk
-y/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb>
-Output written on Article.pdf (15 pages, 3245281 bytes).
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texm
+f-texlive/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/typ
+e1/bluesky/cm/cmbx7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10
+.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/te
+xmf-texlive/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/bluesky/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10
+.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texm
+f-texlive/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1
+/bluesky/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr9.pfb>
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsl10.pfb></usr/share/texmf-t
+exlive/fonts/type1/bluesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/b
+luesky/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb
+></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf-t
+exlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/b
+luesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb
+>
+Output written on Article.pdf (16 pages, 10266811 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
+ 144 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
