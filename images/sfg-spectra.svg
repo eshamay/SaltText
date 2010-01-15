@@ -33,7 +33,7 @@
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
-       id="perspective2531"
+       id="perspective2548"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:vp_y="0 : 1000 : 0"
@@ -51,15 +51,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="166.54329"
-     inkscape:cy="592.69892"
+     inkscape:cx="36.428571"
+     inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1355"
-     inkscape:window-height="993"
-     inkscape:window-x="0"
-     inkscape:window-y="49" />
+     showborder="false"
+     inkscape:window-width="1417"
+     inkscape:window-height="824"
+     inkscape:window-x="362"
+     inkscape:window-y="174" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -76,26 +77,20 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="-100.63782"
-       x="-771"
+       y="-322.06638"
+       x="-1025.7142"
        id="image2466"
-       height="1266"
-       width="2292"
+       height="1366"
+       width="2400"
        sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/SFGSpectra.png"
-       xlink:href="SFGSpectra.png"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       xlink:href="SFGSpectra.png" />
     <image
-       y="553.29071"
-       x="455.14288"
-       id="image2533"
-       height="552.42859"
-       width="855.42853"
+       y="431.50504"
+       x="175.14284"
+       id="image2550"
+       height="535.28571"
+       width="986.85712"
        sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/mcfearin2009-spectra.png"
-       xlink:href="mcfearin2009-spectra.png"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       xlink:href="mcfearin2009-spectra.png" />
   </g>
 </svg>
