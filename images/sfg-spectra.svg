@@ -39,6 +39,27 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2558"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2692"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2796"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -83,14 +104,42 @@
        height="1366"
        width="2400"
        sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/SFGSpectra.png"
-       xlink:href="SFGSpectra.png" />
+       xlink:href="SFGSpectra.png"
+       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <image
-       y="431.50504"
-       x="175.14284"
-       id="image2550"
-       height="535.28571"
-       width="986.85712"
-       sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/mcfearin2009-spectra.png"
-       xlink:href="mcfearin2009-spectra.png" />
+       y="-178.73325"
+       x="-719.85699"
+       id="image2560"
+       height="265.52393"
+       width="421.47263"
+       sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/nacl-ccl4.sfg.png"
+       xlink:href="nacl-ccl4.sfg.png"
+       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       y="-178.73325"
+       x="295.18927"
+       id="image2694"
+       height="273.17276"
+       width="411.33383"
+       sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/nano3-ccl4.sfg.png"
+       xlink:href="nano3-ccl4.sfg.png"
+       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       y="414.60187"
+       x="-719.85699"
+       id="image2798"
+       height="272.08005"
+       width="416.62473"
+       sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/na2so4-ccl4.sfg.png"
+       xlink:href="na2so4-ccl4.sfg.png"
+       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
