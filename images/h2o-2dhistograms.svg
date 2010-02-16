@@ -61,16 +61,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-98.911462"
-     inkscape:cy="649.74819"
+     inkscape:cx="-606.10039"
+     inkscape:cy="649.92533"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1095"
-     inkscape:window-height="1007"
-     inkscape:window-x="823"
-     inkscape:window-y="101" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1127"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -87,72 +87,122 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="-430.06638"
-       x="-783.85718"
+       y="-410.06638"
+       x="-1189.5714"
        id="image2637"
        height="1342"
        width="2282"
        sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/h2o-2dhistograms.png"
-       xlink:href="/home/eric/Documents/Salts+CCl4_Article/images/h2o-2dhistograms.png"
+       xlink:href="h2o-2dhistograms.png"
        inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/h2o-2dhistograms.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="-313.69693"
+       y="-1.0359991"
+       id="text2396"
+       transform="matrix(-2.7930943e-2,-0.9993776,0.9998425,-2.7917957e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2398"
+         x="-313.69693"
+         y="-1.0359991">cosɸ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="-352.82184"
+       y="-1185.406"
+       id="text2408"
+       transform="matrix(2.71631e-2,-0.999631,0.999631,2.71631e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2410"
+         x="-352.82184"
+         y="-1185.406"
+         style="-inkscape-font-specification:Bitstream Vera Sans">cosθ</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.41935484;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#47123e;stroke-width:11.13580836000000041;stroke-miterlimit:4;stroke-dasharray:22.27161672000000081, 11.13580836000000041;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3184"
+       sodipodi:cx="-855.71429"
+       sodipodi:cy="-539.06641"
+       sodipodi:rx="155.71428"
+       sodipodi:ry="88.571426"
+       d="M -700.00002,-539.06641 A 155.71428,88.571426 0 1 1 -1011.4286,-539.06641 A 155.71428,88.571426 0 1 1 -700.00002,-539.06641 z"
+       transform="matrix(0.443064,0,0,0.8918383,-266.57807,217.40802)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.41935484;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0516f3;stroke-width:12.35741900999999920;stroke-miterlimit:4;stroke-dasharray:24.71483818999999826, 12.35741909999999955;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3186"
+       sodipodi:cx="-855.71429"
+       sodipodi:cy="-539.06641"
+       sodipodi:rx="155.71428"
+       sodipodi:ry="88.571426"
+       d="M -700.00002,-539.06641 A 155.71428,88.571426 0 1 1 -1011.4286,-539.06641 A 155.71428,88.571426 0 1 1 -700.00002,-539.06641 z"
+       transform="matrix(0.7623505,0,0,0.4209067,133.78285,-77.884036)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.47580644000000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0b2ce3;stroke-width:9.04545085000000171;stroke-miterlimit:4;stroke-dasharray:18.09090168999999904, 9.04545085000000171;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3188"
+       sodipodi:cx="-855.71429"
+       sodipodi:cy="-539.06641"
+       sodipodi:rx="155.71428"
+       sodipodi:ry="88.571426"
+       d="M -700.00002,-539.06641 A 155.71428,88.571426 0 1 1 -1011.4286,-539.06641 A 155.71428,88.571426 0 1 1 -700.00002,-539.06641 z"
+       transform="matrix(0.831629,0,0,0.7201219,121.63679,487.69855)" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:bold;opacity:0.53629037000000002;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       x="-782.85718"
+       y="-233.3521"
+       id="text3190"><tspan
+         sodipodi:role="line"
+         id="tspan3192"
+         x="-782.85718"
+         y="-233.3521">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:bold;opacity:0.53629037000000002;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       x="-387.58929"
+       y="-284.30972"
+       id="text3194"><tspan
+         sodipodi:role="line"
+         id="tspan3196"
+         x="-387.58929"
+         y="-284.30972">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:bold;opacity:0.53629037000000002;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       x="-785.68524"
+       y="124.26173"
+       id="text3198"><tspan
+         sodipodi:role="line"
+         id="tspan3200"
+         x="-785.68524"
+         y="124.26173">C</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.47580644000000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0b2ce3;stroke-width:12.46969813;stroke-miterlimit:4;stroke-dasharray:24.93939626,12.46969813;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3202"
+       sodipodi:cx="-855.71429"
+       sodipodi:cy="-539.06641"
+       sodipodi:rx="155.71428"
+       sodipodi:ry="88.571426"
+       d="M -700.00002,-539.06641 A 155.71428,88.571426 0 1 1 -1011.4286,-539.06641 A 155.71428,88.571426 0 1 1 -700.00002,-539.06641 z"
+       transform="matrix(0.8378013,0,0,0.3761345,1275.7874,75.123664)" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-weight:bold;opacity:0.68548387;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       x="666.04083"
+       y="-171.45255"
+       id="text3204"><tspan
+         sodipodi:role="line"
+         id="tspan3206"
+         x="666.04083"
+         y="-171.45255">D</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="text">
-    <text
-       xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="-248.57141"
-       y="-427.63782"
-       id="text2543"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/h2o-2dhistograms.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan2545"
-         x="-248.57141"
-         y="-427.63782">Bisector</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="885.71429"
-       y="-427.63782"
-       id="text2547"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/h2o-2dhistograms.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan2549"
-         x="885.71429"
-         y="-427.63782">Normal</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="-274.28574"
-       y="942.57562"
-       id="text2661"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/h2o-2dhistograms.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan2663"
-         x="-274.28574"
-         y="942.57562">Slab Position (Å)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="848.71375"
-       y="942.57562"
-       id="text2665"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/h2o-2dhistograms.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan2667"
-         x="848.71375"
-         y="942.57562">Slab Position (Å)</tspan></text>
-  </g>
+     inkscape:label="text" />
 </svg>
