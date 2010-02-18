@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  18 FEB 2010 11:22
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  18 FEB 2010 11:36
 entering extended mode
  %&-line parsing enabled.
 **Article.tex
@@ -177,35 +177,19 @@ File: images/densities.png Graphic file (type png)
 <use images/densities.png> [6
 
 
- <./images/densities.png>] [7]
-
-Package natbib Warning: Citation `Jungwirth2006' on page 8 undefined on input l
-ine 46.
-
-
-Package natbib Warning: Citation `Miller2009' on page 8 undefined on input line
- 46.
-
-
-Package natbib Warning: Citation `Soule2009' on page 8 undefined on input line 
-46.
-
-
-Package natbib Warning: Citation `Gopalakrishnan2005' on page 8 undefined on in
-put line 46.
-
-[8]) [9]
+ <./images/densities.png>] [7] [8]) [9]
 \openout2 = `Results-Orientation-2D.aux'.
 
- (./Results-Orientation-2D.tex
-<images/h2o-2dhistograms.png, id=49, 467.346pt x 269.3262pt>
+
+(./Results-Orientation-2D.tex
+<images/h2o-2dhistograms.png, id=48, 467.346pt x 269.3262pt>
 File: images/h2o-2dhistograms.png Graphic file (type png)
 
 <use images/h2o-2dhistograms.png> [10
 
 
  <./images/h2o-2dhistograms.png>]
-<images/h2o-angle-ranges.png, id=54, 299.6796pt x 304.4976pt>
+<images/h2o-angle-ranges.png, id=53, 299.6796pt x 304.4976pt>
 File: images/h2o-angle-ranges.png Graphic file (type png)
 
 <use images/h2o-angle-ranges.png> [11 <./images/h2o-angle-ranges.png>] [12])
@@ -213,7 +197,7 @@ File: images/h2o-angle-ranges.png Graphic file (type png)
 \openout2 = `Results-SFG.aux'.
 
  (./Results-SFG.tex
-<images/sfg-spectra.png, id=66, 411.4572pt x 248.6088pt>
+<images/sfg-spectra.png, id=65, 411.4572pt x 248.6088pt>
 File: images/sfg-spectra.png Graphic file (type png)
 
 <use images/sfg-spectra.png>
@@ -232,39 +216,34 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 ]
 (./Article.bbl [18
 
-] [19])
-
-Package natbib Warning: There were undefined citations.
-
-[20] (./Article.aux (./Introduction.aux) (./Methods.aux)
-(./ComputationalMethods.aux) (./Results-Density.aux)
+] [19]) [20] (./Article.aux (./Introduction.aux)
+(./Methods.aux) (./ComputationalMethods.aux) (./Results-Density.aux)
 (./Results-Orientation-2D.aux) (./Results-SFG.aux) (./Conclusions.aux)) ) 
 Here is how much of TeX's memory you used:
- 1810 strings out of 95087
- 21892 string characters out of 1183279
- 80318 words of memory out of 1500000
- 4942 multiletter control sequences out of 10000+50000
- 10398 words of font info for 37 fonts, out of 1200000 for 2000
+ 1805 strings out of 95087
+ 21831 string characters out of 1183279
+ 80334 words of memory out of 1500000
+ 4938 multiletter control sequences out of 10000+50000
+ 10088 words of font info for 36 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
- 27i,8n,32p,3172b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 27i,8n,32p,3173b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
 </usr/
 share/texmf-texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf-texlive
 /fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/bluesk
-y/cm/cmbx7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb></us
-r/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-texli
-ve/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/blues
-ky/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></us
-r/share/texmf-texlive/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive
-/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/
-cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsl10.pfb></usr/s
-hare/texmf-texlive/fonts/type1/bluesky/cm/cmss8.pfb></usr/share/texmf-texlive/f
-onts/type1/bluesky/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/c
-m/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/s
-hare/texmf-texlive/fonts/type1/bluesky/cm/cmsy9.pfb></usr/share/texmf-texlive/f
-onts/type1/bluesky/cm/cmti10.pfb>
-Output written on Article.pdf (20 pages, 2704097 bytes).
+y/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></u
+sr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texli
+ve/fonts/type1/bluesky/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1/blues
+ky/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr6.pfb></usr
+/share/texmf-texlive/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf-texlive/
+fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/c
+m/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss8.pfb></usr/s
+hare/texmf-texlive/fonts/type1/bluesky/cm/cmss9.pfb></usr/share/texmf-texlive/f
+onts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/
+cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy9.pfb></usr/s
+hare/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb>
+Output written on Article.pdf (20 pages, 2703005 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
