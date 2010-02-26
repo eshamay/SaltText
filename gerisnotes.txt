@@ -1,0 +1,70 @@
+page 1 introduction:
+-near a hydrophobic surface (at the end of sent 2)
+also check references 1-8 that they are ions at water surface
+
+Add cremer reference somewhere
+
+sent 2: Over this time, the field has advanced from studying... in vacuum and in air, to studying more complex interfaces such as aquoues solutions near ...
+
+P2
+S1 ...conducted to compare and augment...
+   ... hydrophobic organic liquid...
+S2 ... liquid carbontetrachloride (CCl4).
+S3 Analyses were conducted to contrast the behavior of aqueous salt solutions... (remove for comparison with the...)
+S5  ... These were chosen to allow a comparison to the recent experimental SFG results of these salt solutions .... level information derived from these simulations.
+S6 xxAnalyses were performed onxx... The simulation data has been used here to extract...
+
+P3
+S2 The general conclusions drawn...
+LS	...involving salt-containing water solutions...
+
+page 3
+S2 ...couplings that lead to broad spectral envelopes, each containing a distribution of water-bonded species.
+S4 In this work we compute... and an organic phase to compare with the experimental results of similar systems.\ref(cat) xxxx Where general agreement is found, we extract from the calculations a more microscopic picture of the interface and water's spectroscopic signatures to compliment the picture derived from the experiment.
+
+Page 5 figures add captions for ctc/wat + ions
+fig captions - (A) neat ccl4/h2o
+S1 .. and to find any deviationsin the behavior of water added from the H2O/CCl4 system.
+
+page 6
+P2
+S5 - The more polarizable.... (change to be more specific to monovalent) From our studies and from others... it is clear that polarizable and monovalent ions move...
+... The bulk water density is unchanged.... (change to) The water profile is relatively unchanged and only the width is slightly increased above the neat-h2o.
+
+Page 7
+S1 It is important to note that from our density calculations... enhancing->enhancement
+S2 ... experimental results that also show this enhancement for such ions.
+
+P3
+S4 The calculations suggest that the large polarizable...
+X-ray photoemission (period,comma)
+.. In comparison the no3 ion does alter.. bulk levels. (period) Also a wide ionic double-layer...
+
+
+Page 14
+Get rid of axes on insets
+P1
+The divalent and larger... This is most likely due to...
+This indicates a stronger ordering of deeper interfacial waters....
+
+************************************************
+Page 5 figures add captions for ctc/wat + ions
+fig captions - (A) neat ccl4/h2o
+
+Page 14
+Get rid of axes on insets
+
+fix air/water water/air
+
+Title
+abstract
+cover letter
+Acknowledgements - info for NSF
+
+reviewers:
+dang
+tobias
+cremer
+rossky - UT Austin
+morita
+Hore
