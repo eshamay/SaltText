@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.29)  2 MAR 2010 11:22
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.29)  2 MAR 2010 21:15
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -161,74 +161,77 @@ LaTeX Font Info:    ... okay on input line 51.
 <images/water-angles.png, id=12, 361.35pt x 183.8067pt>
 File: images/water-angles.png Graphic file (type png)
 
-<use images/water-angles.png> [3
+<use images/water-angles.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3
 
 
-] [4 <./images/water-angles.png>]) [5]
+]) [4 <./images/water-angles.png>]
 \openout2 = `ComputationalMethods.aux'.
 
-
-(./ComputationalMethods.tex
+ (./ComputationalMethods.tex
 
 LaTeX Warning: Command \r invalid in math mode on input line 5.
 
-) [6
+) [5
 
 
 ]
 \openout2 = `Results-Density.aux'.
 
  (./Results-Density.tex
-<images/densities.png, id=35, 554.07pt x 320.6379pt>
+<images/densities.png, id=32, 529.98pt x 306.9066pt>
 File: images/densities.png Graphic file (type png)
 
 <use images/densities.png>
-Overfull \hbox (84.31366pt too wide) in paragraph at lines 5--6
+Overfull \hbox (60.2237pt too wide) in paragraph at lines 5--6
  [] 
  []
 
-[7
+[6
 
 
- <./images/densities.png>] [8] [9]) [10]
+ <./images/densities.png>] [7] [8]) [9]
 \openout2 = `Results-Orientation-2D.aux'.
 
  (./Results-Orientation-2D.tex
-<images/h2o-2dhistograms.png, id=51, 467.346pt x 269.3262pt>
+<images/h2o-2dhistograms.png, id=48, 467.346pt x 269.3262pt>
 File: images/h2o-2dhistograms.png Graphic file (type png)
 
-<use images/h2o-2dhistograms.png> [11
+<use images/h2o-2dhistograms.png> [10
 
 
  <./images/h2o-2dhistograms.png>]
-<images/h2o-angle-ranges.png, id=56, 299.6796pt x 304.4976pt>
+<images/h2o-angle-ranges.png, id=53, 299.6796pt x 304.4976pt>
 File: images/h2o-angle-ranges.png Graphic file (type png)
 
-<use images/h2o-angle-ranges.png> [12 <./images/h2o-angle-ranges.png>] [13])
-[14]
+<use images/h2o-angle-ranges.png> [11 <./images/h2o-angle-ranges.png>] [12])
+[13]
 \openout2 = `Results-SFG.aux'.
 
  (./Results-SFG.tex
-<images/sfg-spectra.png, id=68, 411.4572pt x 248.6088pt>
+<images/sfg-spectra.png, id=65, 411.4572pt x 248.6088pt>
 File: images/sfg-spectra.png Graphic file (type png)
 
 <use images/sfg-spectra.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15
+[14
 
 
-]) [16 <./images/sfg-spectra.png>] [17]
+]) [15 <./images/sfg-spectra.png>] [16]
 \openout2 = `Conclusions.aux'.
 
- (./Conclusions.tex) [18
+ (./Conclusions.tex) [17
 
 
 ]
-(./Article.bbl [19
+(./Article.bbl [18
 
-] [20]) [21] (./Article.aux (./Abstract.aux)
+] [19]) [20] (./Article.aux (./Abstract.aux)
 (./Introduction.aux) (./Methods.aux) (./ComputationalMethods.aux)
 (./Results-Density.aux) (./Results-Orientation-2D.aux) (./Results-SFG.aux)
 (./Conclusions.aux)) ) 
@@ -239,7 +242,7 @@ Here is how much of TeX's memory you used:
  4937 multiletter control sequences out of 10000+50000
  10088 words of font info for 36 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
- 27i,8n,32p,2468b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 27i,8n,32p,2473b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
 </usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx10.p
 fb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texm
 f-texlive/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/typ
@@ -254,9 +257,9 @@ bluesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss9.pfb
 texlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/
 bluesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pf
 b>
-Output written on Article.pdf (21 pages, 2922840 bytes).
+Output written on Article.pdf (20 pages, 2703587 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
