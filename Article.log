@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.29)  2 MAR 2010 21:15
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.29)  2 MAR 2010 21:59
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -182,11 +182,10 @@ LaTeX Warning: Command \r invalid in math mode on input line 5.
 \openout2 = `Results-Density.aux'.
 
  (./Results-Density.tex
-<images/densities.png, id=32, 529.98pt x 306.9066pt>
+<images/densities.png, id=32, 505.89pt x 293.898pt>
 File: images/densities.png Graphic file (type png)
-
-<use images/densities.png>
-Overfull \hbox (60.2237pt too wide) in paragraph at lines 5--6
+ <use images/densities.png>
+Overfull \hbox (36.13376pt too wide) in paragraph at lines 5--6
  [] 
  []
 
@@ -257,7 +256,7 @@ bluesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss9.pfb
 texlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/
 bluesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pf
 b>
-Output written on Article.pdf (20 pages, 2703587 bytes).
+Output written on Article.pdf (20 pages, 2866279 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
