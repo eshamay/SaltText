@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.29)  2 MAR 2010 21:59
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.29)  3 MAR 2010 21:19
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -237,7 +237,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Here is how much of TeX's memory you used:
  1811 strings out of 95087
  21907 string characters out of 1183277
- 80600 words of memory out of 1500000
+ 80607 words of memory out of 1500000
  4937 multiletter control sequences out of 10000+50000
  10088 words of font info for 36 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
@@ -256,7 +256,7 @@ bluesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss9.pfb
 texlive/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/
 bluesky/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pf
 b>
-Output written on Article.pdf (20 pages, 2866279 bytes).
+Output written on Article.pdf (20 pages, 2866290 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
