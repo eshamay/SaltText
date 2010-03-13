@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="system.densities.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -74,6 +74,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2884-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -82,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="17.142896"
-     inkscape:cy="-195.12073"
+     inkscape:zoom="0.16"
+     inkscape:cx="-1544.0413"
+     inkscape:cy="-285.72844"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -102,7 +109,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -218,97 +225,82 @@
            x="-1119.249"
            y="-1230.5826"
            style="font-size:72px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRegion><flowPara
-         id="flowPara2421">NaCl</flowPara></flowRoot>    <g
-       style="display:inline"
-       id="g2455"
-       transform="translate(2165.2683,992.48569)">
-      <text
-         id="text2443"
-         y="232.96205"
-         x="-876.81244"
-         style="font-size:64px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="232.96205"
-           x="-876.81244"
-           id="tspan2445"
-           sodipodi:role="line">2</tspan></text>
-      <text
-         id="text2447"
-         y="232.1183"
-         x="-731.35046"
-         style="font-size:64px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="232.1183"
-           x="-731.35046"
-           id="tspan2449"
-           sodipodi:role="line">4</tspan></text>
-      <flowRoot
-         transform="translate(140.80557,1365.26)"
-         style="font-size:72px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
-         id="flowRoot2423"
-         xml:space="preserve"><flowRegion
-           id="flowRegion2425"><rect
-             style="font-size:72px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
-             y="-1230.5826"
-             x="-1119.249"
-             height="165.66502"
-             width="521.23871"
-             id="rect2427" /></flowRegion><flowPara
-           id="flowPara2429">Na SO</flowPara></flowRoot>    </g>
-    <g
-       style="display:inline"
-       id="g2465"
-       transform="translate(2225.8774,988.44509)">
-      <flowRoot
-         transform="translate(-2138.0986,1373.3412)"
-         style="font-size:72px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
-         id="flowRoot2431"
-         xml:space="preserve"><flowRegion
-           id="flowRegion2433"><rect
-             style="font-size:72px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
-             y="-1230.5826"
-             x="-1119.249"
-             height="165.66502"
-             width="521.23871"
-             id="rect2435" /></flowRegion><flowPara
-           id="flowPara2437">NaNO</flowPara></flowRoot>      <text
-         id="text2439"
-         y="244.24013"
-         x="-3026.417"
-         style="font-size:64px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="244.24013"
-           x="-3026.417"
-           id="tspan2441"
-           sodipodi:role="line">3</tspan></text>
-    </g>
-    <g
-       style="display:inline"
-       id="g2485"
-       transform="translate(2233.9586,1043.6051)">
-      <flowRoot
-         transform="translate(-2146.1798,15.696162)"
-         style="font-size:72px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
-         id="flowRoot2473"
-         xml:space="preserve"><flowRegion
-           id="flowRegion2475"><rect
-             style="font-size:72px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
-             y="-1230.5826"
-             x="-1119.249"
-             height="165.66502"
-             width="521.23871"
-             id="rect2477" /></flowRegion><flowPara
-           id="flowPara2479">Neat-H O</flowPara></flowRoot>      <text
-         id="text2481"
-         y="-1105.3236"
-         x="-2990.0515"
-         style="font-size:64px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="-1105.3236"
-           x="-2990.0515"
-           id="tspan2483"
-           sodipodi:role="line">2</tspan></text>
-    </g>
+         id="flowPara2421">NaCl</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="1292.4965"
+       y="1225.4478"
+       id="text2443"><tspan
+         sodipodi:role="line"
+         id="tspan2445"
+         x="1292.4965"
+         y="1225.4478">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="1433.9178"
+       y="1224.604"
+       id="text2447"><tspan
+         sodipodi:role="line"
+         id="tspan2449"
+         x="1433.9178"
+         y="1224.604">4</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2423"
+       style="font-size:72px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       transform="translate(2306.0739,2357.7457)"><flowRegion
+         id="flowRegion2425"><rect
+           id="rect2427"
+           width="521.23871"
+           height="165.66502"
+           x="-1119.249"
+           y="-1230.5826"
+           style="font-size:72px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRegion><flowPara
+         id="flowPara2429">Na SO</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2431"
+       style="font-size:72px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       transform="translate(87.7788,2361.7863)"><flowRegion
+         id="flowRegion2433"><rect
+           id="rect2435"
+           width="521.23871"
+           height="165.66502"
+           x="-1119.249"
+           y="-1230.5826"
+           style="font-size:72px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRegion><flowPara
+         id="flowPara2437">NaNO</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:48;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-800.53961"
+       y="1232.6852"
+       id="text2439"><tspan
+         sodipodi:role="line"
+         id="tspan2441"
+         x="-800.53961"
+         y="1232.6852">3</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2473"
+       style="font-size:72px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       transform="translate(87.7788,1059.3013)"><flowRegion
+         id="flowRegion2475"><rect
+           id="rect2477"
+           width="791.23871"
+           height="142.80788"
+           x="-1119.249"
+           y="-1230.5826"
+           style="font-size:72px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRegion><flowPara
+         id="flowPara2479">Neat CCl - H O</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-544.66437"
+       y="-80.28994"
+       id="text2481"><tspan
+         sodipodi:role="line"
+         id="tspan2483"
+         x="-544.66437"
+         y="-80.28994">2</tspan></text>
     <path
        style="fill:none;stroke:#aa8800;stroke-width:21.07909393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:42.15818396, 21.07909198;stroke-dashoffset:0;display:inline"
        d="m 1180.5762,-65.565049 0,1095.307349"
@@ -339,5 +331,15 @@
        d="m 1474.8227,-67.12447 0,1095.30717"
        id="path2818-7-9-7"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-688.91071"
+       y="-79.827759"
+       id="text2481-1"><tspan
+         sodipodi:role="line"
+         id="tspan2483-0"
+         x="-688.91071"
+         y="-79.827759">4</tspan></text>
   </g>
 </svg>

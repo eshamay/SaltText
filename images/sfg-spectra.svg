@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,9 +14,13 @@
    height="1052.3622047"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="sfg-spectra.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1"
+   inkscape:export-filename="/home/shachar/work/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -60,6 +65,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2833"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2878"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -71,17 +90,18 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="36.428571"
-     inkscape:cy="520"
+     inkscape:zoom="1.4"
+     inkscape:cx="77.665318"
+     inkscape:cy="647.57951"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1417"
      inkscape:window-height="824"
-     inkscape:window-x="362"
-     inkscape:window-y="174" />
+     inkscape:window-x="17"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -90,6 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,48 +119,96 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="-322.06638"
-       x="-1025.7142"
-       id="image2466"
-       height="1366"
-       width="2400"
-       sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/SFGSpectra.png"
+       sodipodi:absref="/home/shachar/work/Salts+CCl4_Article/images/SFGSpectra.png"
        xlink:href="SFGSpectra.png"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       width="648"
+       height="368.82001"
+       id="image2466"
+       x="-151.22946"
+       y="177.0287" />
     <image
-       y="-178.73325"
-       x="-719.85699"
-       id="image2560"
-       height="265.52393"
-       width="421.47263"
-       sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/nacl-ccl4.sfg.png"
+       sodipodi:absref="/home/shachar/work/Salts+CCl4_Article/images/nacl-ccl4.sfg.png"
        xlink:href="nacl-ccl4.sfg.png"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       width="113.79761"
+       height="71.69146"
+       id="image2560"
+       x="-67.132782"
+       y="215.22357" />
     <image
-       y="-178.73325"
-       x="295.18927"
-       id="image2694"
-       height="273.17276"
-       width="411.33383"
-       sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/nano3-ccl4.sfg.png"
+       sodipodi:absref="/home/shachar/work/Salts+CCl4_Article/images/nano3-ccl4.sfg.png"
        xlink:href="nano3-ccl4.sfg.png"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       width="111.06013"
+       height="73.756645"
+       id="image2694"
+       x="206.92972"
+       y="215.22357" />
     <image
-       y="414.60187"
-       x="-719.85699"
-       id="image2798"
-       height="272.08005"
-       width="416.62473"
-       sodipodi:absref="/home/eric/Documents/Salts+CCl4_Article/images/na2so4-ccl4.sfg.png"
+       sodipodi:absref="/home/shachar/work/Salts+CCl4_Article/images/na2so4-ccl4.sfg.png"
        xlink:href="na2so4-ccl4.sfg.png"
-       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       inkscape:export-filename="/home/eric/Documents/Salts+CCl4_Article/images/sfg-spectra.orig.png"
+       width="112.48868"
+       height="73.461617"
+       id="image2798"
+       x="-67.132782"
+       y="375.42404" />
+    <g
+       id="g2864"
+       transform="matrix(0.27,0,0,0.27,127.22861,263.48155)">
+      <text
+         id="text2821"
+         y="972.36218"
+         x="-451.42859"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="972.36218"
+           x="-451.42859"
+           id="tspan2823"
+           sodipodi:role="line">Frequency (cm  )</tspan></text>
+      <text
+         id="text2850"
+         y="957.36218"
+         x="-150.71428"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="957.36218"
+           x="-150.71428"
+           id="tspan2852"
+           sodipodi:role="line">-1</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.27,0,0,0.27,406.78107,103.49148)"
+       id="g2864-8">
+      <text
+         id="text2821-9"
+         y="972.36218"
+         x="-451.42859"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="972.36218"
+           x="-451.42859"
+           id="tspan2823-6"
+           sodipodi:role="line">Frequency (cm  )</tspan></text>
+      <text
+         id="text2850-4"
+         y="957.36218"
+         x="-150.71428"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="957.36218"
+           x="-150.71428"
+           id="tspan2852-3"
+           sodipodi:role="line">-1</tspan></text>
+    </g>
   </g>
 </svg>
