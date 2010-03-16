@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.29)  12 MAR 2010 17:15
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.1.4)  15 MAR 2010 17:02
 entering extended mode
  %&-line parsing enabled.
 **Article
@@ -8,8 +8,8 @@ Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, loaded.
 (/usr/share/texmf-texlive/tex/latex/base/article.cls
 Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/size10.clo
-File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -117,12 +117,18 @@ Package: ccaption 2001/03/15 v3.0 Extended captioning and new floats
 \belowlegendskip=\skip49
 \c@newflo@tctr=\count100
 )
-(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
-Package: natbib 2007/02/05 8.0 (PWD)
-\bibhang=\skip50
-\bibsep=\skip51
-LaTeX Info: Redefining \cite on input line 602.
-\c@NAT@ctr=\count101
+(/usr/share/texmf-texlive/tex/latex/achemso/achemso.sty
+Package: achemso 2007/01/17 v2.0 Enhancements for ACS publications
+
+(/usr/share/texmf-texlive/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 149.
+LaTeX Info: Redefining \nocite on input line 214.
+Package: cite 2003/11/04  v 4.01
+LaTeX Info: Redefining \cite on input line 282.
+))
+(/usr/share/texmf-texlive/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip50
 ) (./Article.aux
 (./Abstract.aux) (./Introduction.aux) (./Methods.aux)
 (./ComputationalMethods.aux) (./Results-Density.aux)
@@ -130,146 +136,155 @@ LaTeX Info: Redefining \cite on input line 602.
 (./Acknowledgements.aux))
 \openout1 = `Article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-\openout2 = `Abstract.aux'.
-
- (./Abstract.tex) [1
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `Abstract.aux'.
+
+ (./Abstract.tex) [2
+
+]
 \openout2 = `Introduction.aux'.
 
- (./Introduction.tex) [2
+ (./Introduction.tex) [3
 
 
 ]
 \openout2 = `Methods.aux'.
 
- (./Methods.tex
-<images/water-angles.png, id=12, 361.35pt x 183.8067pt>
+ (./Methods.tex [4
+
+
+]
+<images/water-angles.png, id=22, 361.35pt x 183.8067pt>
 File: images/water-angles.png Graphic file (type png)
 
 <use images/water-angles.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3
-
-
-]) [4 <./images/water-angles.png>]
+[5]) [6 <./images/water-angles.png>]
 \openout2 = `ComputationalMethods.aux'.
 
- (./ComputationalMethods.tex
-
-LaTeX Warning: Command \r invalid in math mode on input line 5.
-
-) [5
+ (./ComputationalMethods.tex) [7
 
 
-]
+] [8]
 \openout2 = `Results-Density.aux'.
 
- (./Results-Density.tex
-<images/densities.png, id=32, 520.1031pt x 302.0886pt>
+
+(./Results-Density.tex <images/densities.png, id=41, 520.1031pt x 302.0886pt>
 File: images/densities.png Graphic file (type png)
 
 <use images/densities.png>
-Overfull \hbox (50.34683pt too wide) in paragraph at lines 5--6
+Overfull \hbox (50.3468pt too wide) in paragraph at lines 5--6
  [] 
  []
 
-[6
+[9
 
 
- <./images/densities.png>] [7] [8]) [9]
+ <./images/densities.png>]
+Overfull \hbox (4.99016pt too wide) in paragraph at lines 29--30
+[]\OT1/cmr/m/n/12 The os-cil-la-tions in the sur-face den-sity pro-files of wa-
+ter and the ad-join-ing or-ganic CCl$[]$liquid
+ []
+
+[10] [11] [12]) [13]
 \openout2 = `Results-Orientation-2D.aux'.
 
  (./Results-Orientation-2D.tex
-<images/h2o-2dhistograms.png, id=48, 467.346pt x 269.3262pt>
+<images/h2o-2dhistograms.png, id=59, 467.346pt x 269.3262pt>
 File: images/h2o-2dhistograms.png Graphic file (type png)
 
-<use images/h2o-2dhistograms.png> [10
+<use images/h2o-2dhistograms.png>
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- <./images/h2o-2dhistograms.png>]
-<images/h2o-angle-ranges.png, id=53, 299.6796pt x 304.4976pt>
+<images/h2o-angle-ranges.png, id=60, 299.6796pt x 304.4976pt>
 File: images/h2o-angle-ranges.png Graphic file (type png)
 
-<use images/h2o-angle-ranges.png> [11 <./images/h2o-angle-ranges.png>] [12])
-[13]
-\openout2 = `Results-SFG.aux'.
-
- (./Results-SFG.tex
-<images/sfg-spectra.png, id=65, 520.344pt x 296.0661pt>
-File: images/sfg-spectra.png Graphic file (type png)
-
-<use images/sfg-spectra.png>
-Overfull \hbox (50.58772pt too wide) in paragraph at lines 8--9
- [] 
- []
-
+<use images/h2o-angle-ranges.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [14
 
 
-]) [15 <./images/sfg-spectra.png>] [16]
+] [15 <./images/h2o-2dhistograms.png>] [16 <./images/h2o-angle-ranges.png>]
+[17] [18]) [19]
+\openout2 = `Results-SFG.aux'.
+
+ (./Results-SFG.tex
+<images/sfg-spectra.png, id=82, 520.344pt x 296.0661pt>
+File: images/sfg-spectra.png Graphic file (type png)
+
+<use images/sfg-spectra.png>
+Overfull \hbox (50.58769pt too wide) in paragraph at lines 8--9
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20
+
+
+] [21 <./images/sfg-spectra.png>]) [22] [23]
 \openout2 = `Conclusions.aux'.
 
- (./Conclusions.tex) [17
+ (./Conclusions.tex [24
 
 
-]
+])
+[25]
 \openout2 = `Acknowledgements.aux'.
 
+ (./Acknowledgements.tex) [26
 
-(./Acknowledgements.tex) [18
 
+] (./Article.bbl [27
 
-] (./Article.bbl [19
-
-] [20]) [21] (./Article.aux
-(./Abstract.aux) (./Introduction.aux) (./Methods.aux)
+] [28] [29] [30]) [31]
+(./Article.aux (./Abstract.aux) (./Introduction.aux) (./Methods.aux)
 (./ComputationalMethods.aux) (./Results-Density.aux)
 (./Results-Orientation-2D.aux) (./Results-SFG.aux) (./Conclusions.aux)
 (./Acknowledgements.aux)) ) 
 Here is how much of TeX's memory you used:
- 1821 strings out of 95087
- 22101 string characters out of 1183277
- 80928 words of memory out of 1500000
- 4940 multiletter control sequences out of 10000+50000
- 10088 words of font info for 36 fonts, out of 1200000 for 2000
+ 1682 strings out of 95087
+ 20813 string characters out of 1183279
+ 76194 words of memory out of 1500000
+ 4793 multiletter control sequences out of 10000+50000
+ 13273 words of font info for 47 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
- 27i,13n,32p,2473b,356s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 31i,13n,30p,2466b,346s stack positions out of 5000i,500n,6000p,200000b,5000s
 </usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmb
-x10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share
-/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf-texlive/font
-s/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/
-cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi7.pfb></usr/shar
-e/texmf-texlive/fonts/type1/bluesky/cm/cmmi9.pfb></usr/share/texmf-texlive/font
-s/type1/bluesky/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/c
-mr6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/t
-exmf-texlive/fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/ty
-pe1/bluesky/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss
-8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmss9.pfb></usr/share/te
-xmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/t
-ype1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy
-9.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb>
-Output written on Article.pdf (21 pages, 2834036 bytes).
+x12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb></usr/share
+/texmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-texlive/font
+s/type1/bluesky/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/
+cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></usr/shar
+e/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf-texlive/font
+s/type1/bluesky/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/c
+mr8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsl12.pfb></usr/share
+/texmf-texlive/fonts/type1/bluesky/cm/cmss10.pfb></usr/share/texmf-texlive/font
+s/type1/bluesky/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/c
+msy10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy8.pfb></usr/shar
+e/texmf-texlive/fonts/type1/bluesky/cm/cmti12.pfb>
+Output written on Article.pdf (31 pages, 2831768 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
+ 172 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

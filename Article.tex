@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[12pt]{article}
 \usepackage{amsmath}
 \usepackage{setspace}
 
@@ -16,40 +16,42 @@
 \renewcommand{\figurename}{Figure.}
 
 % bibliography packages
-\usepackage[sort&compress]{natbib}
-\citestyle{nature}
+\usepackage[sort&compress]{achemso}
+%\citestyle{achemso}
 
 % Some info about the document
+\title{Ionic Disruption of the Liquid-Liquid Interface}
 \author{Eric S. Shamay, Geraldine L. Richmond}
-\title{Aqueous Salt and CCl$_4$ Interfaces}
+
+\usepackage{fullpage}
+\begin{document}
+\maketitle
 
 % some formatting tags
-\oddsidemargin  0.0in
-\evensidemargin 0.0in
-\textwidth      6.5in
+%\oddsidemargin  0.0in
+%\evensidemargin 0.0in
+%\textwidth      7.5in
 
 % for angstrom symbols
-\newcommand{\ang}{~$\textrm{\AA}$~}
+\newcommand{\ang}{\,$\textrm{\AA}$}
 \newcommand{\angs}{\ang}
-\newcommand{\wat}{H$_2$O~}
-\newcommand{\ctc}{CCl$_4$~}
-\newcommand{\ctcwat}{CCl$_4$-H$_2$O~}
-\newcommand{\airwat}{air-H$_2$O~}
-\newcommand{\cl}{Cl$^-$~}
-\newcommand{\nit}{${\text{NO}_3}^-$~}
-\newcommand{\sul}{${\text{SO}_4}^{2-}$~}
-\newcommand{\nacl}{NaCl~}
-\newcommand{\sodnit}{NaNO$_3$~}
-\newcommand{\sodsul}{Na$_2$SO$_4$~}
+\newcommand{\wat}{H$_2$O}
+\newcommand{\ctc}{CCl$_4$}
+\newcommand{\ctcwat}{CCl$_4$-H$_2$O}
+\newcommand{\airwat}{air-H$_2$O}
+\newcommand{\cl}{Cl$^-$}
+\newcommand{\nit}{${\text{NO}_3}^-$}
+\newcommand{\sul}{${\text{SO}_4}^{2-}$}
+\newcommand{\nacl}{NaCl}
+\newcommand{\sodnit}{NaNO$_3$}
+\newcommand{\sodsul}{Na$_2$SO$_4$}
 \newcommand{\costheta}{$\cos\theta$~}
 \newcommand{\cosphi}{$\cos\phi$~}
 \newcommand{\costhetarange}{~$<\cos\theta<$~}
 \newcommand{\cosphirange}{~$<\cos\phi<$~}
-\newcommand{\cm}{~$cm^{-1}$~}
+\newcommand{\cm}{\,$cm^{-1}$}
 
-
-\begin{document}
-\onehalfspacing
+\doublespacing
 
 % Cover Letter
 %\include{CoverLetter}
@@ -75,6 +77,6 @@
 \include{Acknowledgements}
 
 \bibliography{WorkCitations}
-\bibliographystyle{achemso}
+%\bibliographystyle{achemso}
 
 \end{document}
