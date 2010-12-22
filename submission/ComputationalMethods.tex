@@ -1,0 +1,23 @@
+\section{Computational Method}
+
+The molecular dynamics methods used in this work are similar to those from our previous computational efforts with some modifications described below.\cite{Hore2008,Walker2006b,Hore2007} Simulations were carried out using the Amber 9 software package. The polarizable ion model parameters are taken from previous works on similar systems.\cite{Chang1997a,Dang1999,Thomas2007,Hrobarik2006,Chang1995} The polarizable POL3 model was used for water molecules.\cite{Caldwell1995} Fully polarizable models have been used in previous interface simulation studies because they are known to more accurately reproduce interfacial structure and free energy profiles.\cite{Rivera2006,Wick2007,Petersen2005b,Salvador2003,Dang1998}
+
+A total of 4 systems were simulated consisting of aqueous salt and CCl$_4$ phases. A slab geometry was used to produce two interface regions within each simulation cell.\cite{Hore2007}  The results of the analyses performed herein on each simulated system made use of the natural symmetry of the two interfaces by averaging the results from the two surfaces. The organic region was formed in a box 30\ang~on a side with 169 \ctc~molecules to reproduce a standard temperature density of 1.59 $\frac{g}{mL}$. The aqueous region was formed in a box 30x30x60\ang$^3$, with the long axis perpendicular to the interfaces. The number of water molecules and ions varied for each system in order to reproduce a concentration of 1.2 M. The specific populations of each molecule are listed in Table \ref{table:densities}. The organic and aqueous boxes were then joined to form a system 90\ang~long with interface areas of 30x30\ang$^2$.
+
+\begin{table}[htdp]
+	\begin{center}
+	\begin{tabular}{|c||c|c|c|}
+		\hline
+		System & H$_2$O & Cation & Anion \\ \hline
+		Neat Water & 1800 & 0 & 0 \\ 
+		NaCl & 1759 & 40 & 40 \\
+		NaNO$_3$ & 1732 & 40 & 40 \\
+		Na$_2$SO$_4$ & 1740 & 86 & 43 \\
+		\hline
+	\end{tabular}
+	\end{center}
+	\caption{Aqueous molecule and ion numbers. Listed are the populations of each component for the 4 simulated aqueous phases. All systems were simulated at near 1.2 M salt concentrations.}
+	\label{table:densities}
+\end{table}
+
+The water, salts, and \ctc~were each randomly packed into their respective boxes with a minimum packing distance of 2.4\ang. After joining the aqueous and organic phases and forming the two interfaces, the total system was energy minimized using a conjugate gradient method. Following minimization, the system was equilibrated at a constant temperature of 298 K with weak coupling to a heat bath for a period of 10 ns, using a simulation timestep of 1.0 fs. A non-bonded potential cutoff of 9.0\ang~was used. Following equilibration the system was simulated with the same parameters for a further 10 ns with atomic position data recorded every 50 fs. This resulted in a total of 200,000 snapshots which were used in the data analysis.
